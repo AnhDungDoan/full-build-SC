@@ -10,6 +10,5 @@ contract Counter {
 
     function increment() public {
         number++;
-        assert(false);
     }
 }
